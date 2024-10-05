@@ -1,5 +1,6 @@
 # Water Quality Analysis Using AI
 This is a project our group, Peer Learning Group 4 worked on which focuses on using an AI model with TensorFlow/Keras for analyzing water quality data and predicting water quality. We predict the quality of water samples as either "Safe" or "Unsafe." Our model can generalize well on unseen data, thereby assisting in identifying potentially unsafe water samples.
+Here is the link to the Colab Document (Version History also available in the doc): https://colab.research.google.com/drive/1SdaXB9Gk3GVVvcPaSjQ6X2tExeZBB_RB?usp=sharing
 ## Group Structure and Task Allocation
 
 This project was completed as part of a collaborative effort among four members of a peer learning group. The responsibilities were divided as follows:
