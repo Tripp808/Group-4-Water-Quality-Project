@@ -23,8 +23,8 @@ This project was completed as part of a collaborative effort among four members 
 
 4. **Aime Magnifique NDAYISHIMIYE**  
    - **Email**: [a.ndayishim@alustudent.com](mailto:a.ndayishim@alustudent.com)  
-   - **Role**: Data Cleaning and Preprocessing.  
-   - **Contribution**: Aime focused on data cleaning and preprocessing tasks, ensuring that all irrelevant data points were removed and missing values were handled, making the data more suitable for modeling.
+   - **Role**: Vanilla Model Implementation  
+   - **Contribution**:  Aime primarily focused on building and fine-tuning the vanilla model, which served as the baseline for comparison against other models. He also contributed to initial data handling tasks, helping prepare the dataset for modeling by performing basic cleaning and preprocessing steps.
 
 ## Summary of the Implementation Process
 
